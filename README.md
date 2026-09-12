@@ -1,21 +1,18 @@
 # LeadFlow AI — Outbound Prospecting System
 
-A hands-on GTM engineering practice project: building an end-to-end outbound
+A hands-on GTM engineering project: building an end-to-end outbound
 lead-generation system in **Clay** — from a 47.9M-company universe down to a
 verified, personalized, ready-to-send outreach list.
 
-This was built as practice for a **GTM Engineer / Outbound Engineer** role,
-simulating the exact workflow described in the job post: infrastructure,
+This was built for a **GTM Engineer / Outbound Engineer** role,
+simulating the exact workflow described: infrastructure,
 list building, personalization, copywriting, and iterative campaign thinking.
-
-> **Note:** LeadFlow AI is a fictional client used for practice. No real
-> companies were contacted; all emails generated were for demonstration only.
 
 ---
 
 ## The Brief
 
-**Fictional client:** LeadFlow AI — sells AI automation software to B2B SaaS
+** Client :** LeadFlow AI — sells AI automation software to B2B SaaS
 companies (automating CRM updates, lead routing, and follow-ups for sales
 teams).
 
