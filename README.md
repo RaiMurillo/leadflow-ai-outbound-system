@@ -1,4 +1,4 @@
-# LeadFlow AI — Outbound Prospecting System (Practice Build)
+# LeadFlow AI — Outbound Prospecting System
 
 A hands-on GTM engineering practice project: building an end-to-end outbound
 lead-generation system in **Clay** — from a 47.9M-company universe down to a
